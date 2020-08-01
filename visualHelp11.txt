@@ -1,0 +1,5 @@
+[Stock [name=Google, opening=1207.65, closing=1250.32], 
+Stock [name=Apple, opening=191.05, closing=193.21], 
+Stock [name=Microsoft, opening=117.05, closing=108.39]]
+
+Highest gainer is Stock [name=Google, opening=1207.65, closing=1250.32]
